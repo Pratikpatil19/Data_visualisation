@@ -1,5 +1,5 @@
 Data Visualization with Matplotlib and Seaborn
-This project demonstrates how to visualize data using popular Python libraries such as Matplotlib and Seaborn. The code includes various examples of common visualizations like line plots, scatter plots, bar charts, histograms, and pie charts. It also explores more advanced plots using Seaborn, such as swarm plots and box plots, which are built on top of Matplotlib and offer enhanced functionality for Pandas data structures.
+This project demonstrates how to visualize data using popular Python libraries such as Matplotlib and Seaborn. The code includes various examples of common visualizations like line plots, scatter plots, bar charts, histograms, and pie charts. It also explores more advanced plots using Seaborn, such as swarm plots and box plots, which are built on top of Matplotlib and offer enhanced functionality for Pandas data structures. 
 
 Visualizations Covered:
 Line Plot: Visualization of population growth over time using a basic line plot.
